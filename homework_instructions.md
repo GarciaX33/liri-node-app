@@ -69,7 +69,6 @@ Having an active and healthy commit history on GitHub is important for your futu
 ```
 node_modules
 .DS_Store
-.env
 ```
 
 3. Make a JavaScript file named `keys.js`.
